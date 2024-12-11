@@ -1,6 +1,6 @@
 # first-project
 this is my first project
-/**html code/**
+/**html code/**and css
 (tanishq site)
 <!DOCTYPE html>
 <html lang="en">
